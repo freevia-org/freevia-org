@@ -11,10 +11,10 @@
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **QC Remote** | Control a Quad Cortex from Windows or Android, with guarded AI access through MCP. Independent and unofficial. | [Website](https://freevia.org/qcremote/) · [Code](https://github.com/freevia-org/QC-Remote) |
-| **Singbook** | Keep lyrics, chords and setlists together in a local-first musician's songbook. | [Website](https://freevia.org/singbook/) · [Code](https://github.com/freevia-org/Singbook) |
-| **Sudoku Buddy** | Scan a paper puzzle, check your progress and get a useful hint while you keep solving. | [Website](https://freevia.org/sudoku-buddy/) · [Code](https://github.com/freevia-org/sudoku-buddy) |
-| **Backgammon Buddy** | Play, review decisions and learn why a stronger move works. | [Website](https://freevia.org/backgammon-buddy/) · [Code](https://github.com/freevia-org/backgammon-buddy) |
-| **Rubik Buddy** | Scan a 3×3 cube and follow an on-device, step-by-step solution. | [Website](https://freevia.org/rubik-buddy/) · [Code](https://github.com/freevia-org/rubik-buddy) |
+| **QC Remote** | Control a Quad Cortex from Windows, Linux or Android, with guarded AI access through MCP. Independent and unofficial. | [Website](https://freevia.org/qcremote/) · [Microsoft Store](https://apps.microsoft.com/store/detail/XPFP2G7DPVK1C5) · [Google Play](https://play.google.com/store/apps/details?id=org.freevia.qcremote) · [GitHub releases](https://github.com/freevia-org/QC-Remote/releases) |
+| **Singbook** | Keep lyrics, chords and setlists together in a local-first musician's songbook. | [Website](https://freevia.org/singbook/) · [Microsoft Store](https://apps.microsoft.com/detail/9P2J824JLQGZ) · [Google Play](https://play.google.com/store/apps/details?id=org.freevia.singbook) · [Code](https://github.com/freevia-org/Singbook) |
+| **Sudoku Buddy** | Scan a paper puzzle, check your progress and get a useful hint while you keep solving. | [Website](https://freevia.org/sudoku-buddy/) · [Google Play](https://play.google.com/store/apps/details?id=org.freevia.sudokubuddy) · [Code](https://github.com/freevia-org/sudoku-buddy) |
+| **Backgammon Buddy** | Play, review decisions and learn why a stronger move works. | [Website](https://freevia.org/backgammon-buddy/) · [Google Play](https://play.google.com/store/apps/details?id=org.freevia.backgammonbuddy) · [GitHub releases](https://github.com/freevia-org/backgammon-buddy/releases) |
+| **Rubik Buddy** | Scan a 3×3 cube and follow an on-device, step-by-step solution. | [Website](https://freevia.org/rubik-buddy/) · [Google Play](https://play.google.com/store/apps/details?id=org.freevia.rubikbuddy) · [Code](https://github.com/freevia-org/rubik-buddy) |
 
 Each project has its own documentation, support and legal information on its website. Bugs and suggestions are welcome through the relevant repository's Issues page.
